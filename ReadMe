@@ -1,0 +1,37 @@
+                                                        
+                                                       Welcome to FileAdder,
+
+                                        Writing to locally stored files from a java program.
+
+Instructions:
+
+1) Open Terminal and type in:
+
+        java -jar (JAR FILE)
+        
+2) Upon running Jar file the following instructions should appear:
+
+ENTER A VALID PATH TO A .TXT FILE
+Example: /Users/marksandomeno/Desktop/MAIN_FILE.txt
+You can find a specific file location by dragging it into the Terminal
+_______________________________________________________________________
+Enter File Path (No Spaces) ->    
+
+
+3) Enter path to locally stored file, or drag the file into the terminal to do it automatically. It should look something like this:
+
+    Enter File Path (No Spaces) ->   /Users/marksandomeno/Desktop/MAIN_FILE.txt
+    
+    
+ 4) Once you click enter you should get something like this:
+ 
+  Fetching File Data...
+  Enter text you wish to import into file:
+  
+  
+ 5) Enter the text you wish to add to the file
+ 
+ 6) ____COMPLETE____
+
+
+
